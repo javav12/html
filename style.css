@@ -5,14 +5,14 @@ body {
     /* <p></p> etiketindeki ana yazının boyutu */
     background-color: #000000;
     /* Web sayfasının arka plan rengi */
-    color: #333333;
+    color: #ffffff;
     /* Metin rengi */
 }
 
 h1 {
-    color: #00a800;
+    color: #ff0000;
     /* Başlık rengi */
-    font-size: 24px;
+    font-size: 90px;
     /* Başlık yazı tipi boyutu */
     font-family: Georgia, serif;
     /* Başlıkta kullanılan yazı tipi ailesi */
