@@ -12,7 +12,23 @@ body {
 h1 {
     color: #ff0000;
     /* Başlık rengi */
-    font-size: 90px;
+    font-size: 50px;
+    /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif;
+    /* Başlıkta kullanılan yazı tipi ailesi */
+}
+p {
+    color: #ffffff;
+    /* Başlık rengi */
+    font-size: 30px;
+    /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif;
+    /* Başlıkta kullanılan yazı tipi ailesi */
+}
+li {
+    color: #c7c7c7;
+    /* Başlık rengi */
+    font-size: 20px;
     /* Başlık yazı tipi boyutu */
     font-family: Georgia, serif;
     /* Başlıkta kullanılan yazı tipi ailesi */
